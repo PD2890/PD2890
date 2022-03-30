@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PD2890
-- 👀 I’m interested in ...
+- 👀 I’m interested in getting handson with new technologies
 - 🌱 I’m currently learning AWS and API from a product manager's perspective
 - 💞️ I’m looking to collaborate on building projects related to cloud or API integrations
 
